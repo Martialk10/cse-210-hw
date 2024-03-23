@@ -7,8 +7,7 @@ namespace DailyJournal
         static void Main(string[] args)
         {
             Journal journal = new Journal();
-
-            List<string> prompts = new List<string>
+     List<string> prompts = new List<string>
             {
                 "Did anything unexpected happen today that surprised you? ",
                 "What was the most challenging thing you faced today and how did you overcome it? ",
