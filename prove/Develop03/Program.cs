@@ -1,6 +1,4 @@
-using System;
-
-// A code template for the category of things known as 
+using System; 
 public class Scripture
 {
     // Variables
